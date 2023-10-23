@@ -2,7 +2,8 @@
     "name": "ft-trockner",
     "description": "",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "Grove": "github:calliope-edu/pxt-grove#v0.2.7"
     },
     "files": [
         "main.blocks",
